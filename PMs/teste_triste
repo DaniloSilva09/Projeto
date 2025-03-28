@@ -5,6 +5,7 @@ Olá, como podemos ajudar:
 2 para Venda
 3 para Associado
 4 para Desligamento
+                
 ''')
 if selecione == '1':
     print('A Capelania PMs de Cristo é um braço essencial da Associação PMs de Cristo, dedicada a oferecer apoio espiritual e emocional aos Policiais Militares e seus familiares. Nossa missão é promover a espiritualidade e o bem estar, através da Palavra de Fé, Vida e Esperança, ajudando o Policial Militar enfrentar os desafios diários da profissão com resiliência.')
